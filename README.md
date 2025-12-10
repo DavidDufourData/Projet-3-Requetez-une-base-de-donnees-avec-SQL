@@ -23,3 +23,6 @@ L’objectif est de comprendre la structure de la base, d’écrire des requête
 
 ##
 > Attention ! Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l’organisme OpenClassrooms.
+
+## Visuels du projet
+![P3_S01](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P3_S01.jpg)  
