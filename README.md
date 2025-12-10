@@ -25,4 +25,4 @@ L’objectif est de comprendre la structure de la base, d’écrire des requête
 > Attention ! Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l’organisme OpenClassrooms.
 
 ## Visuels du projet
-![DUFOUR_DAVID_1_document technique_032024](DUFOUR_DAVID_1_document technique_032024.pdf)  
+![DUFOUR_DAVID_1_document technique_032024](DUFOUR_DAVID_1_document technique_032024.)  
